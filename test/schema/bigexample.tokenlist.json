@@ -433,6 +433,13 @@
       "decimals": 18
     },
     {
+      "address": "0x4d0a4c762bd7f742096daaf5911dcf9c94b9ea95",
+      "chainId": 1,
+      "name": "Nordic Energy Token",
+      "symbol": "NET",
+      "decimals": 8
+    },
+    {
       "address": "0x985dd3D42De1e256d09e1c10F112bCCB8015AD41",
       "chainId": 1,
       "name": "OceanToken",
