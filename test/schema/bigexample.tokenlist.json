@@ -872,6 +872,13 @@
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18
+    },
+    {  
+      "address": "0x4D0A4C762BD7f742096DAAF5911dcf9C94b9ea95",
+      "chainId": 1,
+      "name": "Nordic Energy Token",
+      "symbol": "NET",
+      "decimals": 8
     }
   ]
 }
